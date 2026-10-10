@@ -1,0 +1,90 @@
+---
+title: "Curriculum Vitae"
+---
+
+[Download my full CV (PDF)](CV/CV.pdf)
+
+## Current employment
+::::::: columns
+::: {.column width="15%"}
+2026-
+:::
+:::: {.column width="85%"}
+Research Assistant, Department of Economics, University of Southern Denmark, Denmark
+::::
+::::::
+## Previous positions
+::::::: columns
+::: {.column width="15%"}
+2023-2026
+:::
+:::: {.column width="85%"}
+Assistant Professor, Department of Economics, University of Southern Denmark, Denmark
+::::
+::::::
+::::::: columns
+::: {.column width="15%"}
+2023-2023
+:::
+::::{.column width="85%"}
+Postdoctoral fellow, Department of Economics, University of Southern Denmark, Denmark
+::::
+::::::
+::::::: columns
+::: {.column width="15%"}
+2022-2023
+:::
+:::: {.column width="85%"}
+Researcher, Part of the project: *The value of social background, education, academic performance and work experience: Following the life course of Scandinavian high school, technical school and university-level graduate cohorts 1880-1920*, financed by Handelsbanken Sweden
+::::
+::::::
+::::::: columns
+::: {.column width="15%"}
+2017-2020
+:::
+:::: {.column width="85%"}
+Research Assistant, Department of Economics, University of Southern Denmark, Denmark
+::::
+::::::
+## Education
+:::::: columns
+::: {.column width="15%"}
+2023 
+:::
+:::: {.column width="85%"}
+PhD in Economic History, Department of Economics, University of Southern Denmark, Denmark
+::::
+::::::
+:::::: columns
+::: {.column width="15%"}
+2020 
+:::
+:::: {.column width="85%"}
+MSc in Macroeconomics and Growth, Department of Economics, University of Southern Denmark, Denmark
+::::
+::::::
+:::::: columns
+::: {.column width="15%"}
+2016 
+:::
+:::: {.column width="85%"}
+BSc in Economics, University of Bari Aldo Moro, Italy
+::::
+::::::
+## Grants and awards
+:::::: columns
+::: {.column width="15%"}
+2023 
+:::
+:::: {.column width="85%"}
+2nd Runner-up Paper Award at the Advances in Tourism Marketing Conference in Bordeaux for the paper: *Using big data to measure cultural tourism in Europe with unprecedented precision*.
+::::
+::::::
+:::::: columns
+::: {.column width="15%"}
+2021 
+:::
+:::: {.column width="85%"}
+EHA Exploratory Travel and Data Grant. Awarded the maximum amount of $2500.
+:::
+::::::

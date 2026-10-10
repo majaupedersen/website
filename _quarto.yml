@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+        
+      - href: cv.qmd
+        text: Curriculum Vitae 
+        
+      - href: publications.qmd
+        text: Publications
+
+      - href: projects.qmd
+        text: Research in progress
+        
+      - href: prizes.qmd
+        text: Grants and Awards
+        
+      - href: teaching.qmd
+        text: Teaching
+
+      - href: contact.qmd
+        text: Contact
+
+     
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: false
+
+editor: visual
+

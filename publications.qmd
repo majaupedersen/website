@@ -1,0 +1,148 @@
+---
+title: "Publications"
+---
+## Peer-reviewed papers
+<div class="pub">
+Jensen, P.S., <strong>Pedersen, M.U.</strong>, Radu, C. and Sharp, P. (2026). “All in a Day's Work: Evidence from Danish Manorial Accounts on Labor, Seasonality, and Living Standards”. <em>European Review of Economic History</em>. 
+<a href="https://doi.org/10.1093/ereh/heaf010" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+We use detailed microlevel data from the Danish Price History Project to estimate the number of days manorial employers engaged day-laborers in eighteenth-century rural Denmark. We find that agriculture and construction employed men for an average of 170 days per year and women for 104 days—far below the commonly assumed figure of 250 days for full-year employment. These figures likely represent a lower bound on sector-specific labor demand rather than total annual work effort by individuals, who may have supplemented their income with other types of employment. Our findings show strong seasonality in work availability, with most labor occurring during the summer months, and provide new evidence on how labor demand patterns shifted over time. By focusing on sectoral employment patterns, this study contributes to recent literature on the organization of work in pre-industrial economies and highlights the importance of seasonal dynamics in shaping labor markets.
+</details>
+</div>
+
+<div class="pub">
+Borowiecki, K. J., <strong>Pedersen, M.U.</strong> and Palomeque, M. (2025). “Putting the Periphery on the Map: Tourism Activity Measured with Big Data”. <em>Tourism Economics</em>. 
+<a href="https://doi.org/10.1177/13548166251355678" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+This paper examines tourism patterns in peripheral regions, analyzing visitor flows and regional variations using big data from a major travel portal. Covering 10 European peripheral regions from 2016 to 2022, the study maps tourist origins and activity levels, offering insights into how tourism functions in these areas compared to less remote destinations. Our approach, validated against international tourism statistics, maps tourist origins and activity levels, comparing peripheral regions with less remote areas. The findings highlight specific patterns of tourist flows, regional disparities in tourism development, and opportunities for promoting sustainable tourism in underdeveloped regions. The findings reveal specific patterns of tourism dynamics in peripheral regions, contributing to a deeper understanding of how tourism develops in these areas and how it differs from more central destinations.
+</details>
+</div>
+
+<div class="pub">
+<span class="pub-text">
+Borowiecki, K. J., <strong>Pedersen, M.U.</strong> and Mitchell, S. B. (2024). “Using big data to measure cultural tourism in Europe”. <em>Tourism Economics</em>, 31(3): 477-503. 
+<a href="https://doi.org/10.1177/13548166241273604" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+International tourism statistics are notorious for being overly aggregated, lacking in detailed tourist information, not timely, and often provided only on an annual basis. We suggest a unique, complementary data-driven approach relying on big data collected from Tripadvisor. We obtain a systematic, consistent, and reliable approximation for tourism flows, with high precision, frequency, and depth of information. The approach provides also a list of all tourist attractions in a country. We validate the approach pursued and present one application of the data by illuminating the patterns and changes in travel flows in selected European destinations during and after the COVID-19 pandemic. This project opens a range of new research questions and possibilities for tourism economics and cultural economics.
+</details>
+</div>
+
+
+<div class="pub">
+<strong>Pedersen, M.</strong>, Geloso, V. and Sharp, P. (2023). “Globalization and Empire: Market integration and international trade between Canada, the United States and Britain, 1750-1870”. <em>Social Science History</em>. 
+<a href="https://doi.org/10.1017/ssh.2023.36" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+Wheat market integration between the US and the UK before the “first era of globalization” (in the second half of the nineteenth century) was frequently interrupted by policy and “exogenous” events such as wars. This paper adds Canada to this story by looking at trade and price data, as well as contemporary debates. This allows us to triangulate the role of policy and wars, since Canada as a small open economy was part of the British Empire. We find that, despite its privileged access to British markets, Canada faced similar barriers to the US, suggesting that membership of the British Empire provided only a modest benefit to trade. We also describe the limitations she faced accessing the US market, in particular after American independence.
+</details>
+</div>
+
+<div class="pub">
+Marean, A. A., <strong>Pedersen, M.</strong> and Sharp, P. (2022). “‘Propitious contrast’: Romanian borrowing in a Balkan mirror, 1878-1913”. <em>Financial History Review</em>: 1-24. 
+<a href="https://doi.org/10.1017/S0968565022000142" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+How was Romania able to borrow cheaply on the international capital markets before World War I? We explore this within the context of its three southeast European neighbours, Bulgaria, Greece and Serbia, using a novel dataset of monthly bond prices from the Berlin and London stock exchanges. A comparison of country characteristics and panel data analysis suggests that Romania was able to borrow under more favourable conditions due to its abundant natural resources and desirable exports.
+</details>
+</div>
+
+<div class="pub">
+Jensen, P. S., <strong>Pedersen, M.</strong>, Radu, C. and Sharp, P. (2022). “Arresting the Sword of Damocles: The transition to the post-Malthusian Era in Denmark”. <em>Explorations in Economic History</em>. 
+<a href="https://doi.org/10.1016/j.eeh.2021.101437" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+The Malthusian model is the subject of a fierce debate within economic history. Although the positive causal relationship postulated from living standards to population growth is relatively uncontroversial for preindustrial societies, this cannot be said for the other key relationship, diminishing returns due to fixed supplies of land. We argue that Denmark, which was characterized by extreme resource and environmental constraints until the final decades of the eighteenth century, provides an ideal setting for testing whether any society was ever truly Malthusian. We employ a cointegrated VAR model on Danish data from 1731 to 1800, finding evidence for diminishing returns until ca. 1775. Yet this relationship disappears in the late-eighteenth century, consistent with an increasing pace of technological progress and the emergence of what Unified Growth Theory has termed the “post-Malthusian” era.
+</details>
+</div>
+
+<div class="pub">
+<strong>Pedersen, M.</strong> and Sharp, P. (2021). “The Cost of Ignorance: Reputational Mark-up in the Market for Tuscan Red Wines”. <em>Journal of International Wine Business Research</em>. 
+<a href="https://doi.org/10.1108/IJWBR-03-2021-0018" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+Purpose: The purpose of this paper is to provide an empirical investigation of the idea that imperfectly informed consumers use simple signals to identify the characteristics of wine, for example, the geographical denomination. The reputation of a denomination will thus be an important guide for consumers when assessing individual wines.
+
+Design/methodology/approach: The price–quality relationship is studied in a fairly homogenous geographical area where a large number of wine types is present. This is done by using a simple ordinary least squares (OLS) analysis on a database of more than 2,000 different red wines produced in a period of just four years in only one Italian region.
+
+Findings: The results show that some denominations have a lower average quality score and that price differentials between denominations are linked to differences in average quality, although consumers tend to exaggerate the quality gap between prestigious denominations and others.
+
+Research limitations/implications: A producer in a prestigious denomination benefits from a substantial mark-up relative to an equally good producer from another denomination. Furthermore, denomination neutral wines have a stronger price–quality relationship than denomination specific wines.
+
+Practical implications: Consumers should not be misled by what is on the bottle, but should rather consult wine guides to become better informed before purchasing.
+
+Social implications: The fact that quality and sensory characteristics often play a minor role in determining the price of a commodity is not immediately compatible with the postulate that consumers are well informed.
+
+Originality/value: Unlike previous work, this paper investigates a limited area (Tuscany) and only red wines, thus making it possible implicitly to control for many other factors which might otherwise confound the price–quality relationship.
+</details>
+</div>
+
+<div class="pub">
+Boberg-Fazlic, N., Lampe, M., <strong>Pedersen, M.</strong> and Sharp, P. (2021). “Pandemics and Protectionism: Evidence from the ‘Spanish’ flu”. <em>Humanities & Social Sciences Communications</em>. 
+<a href="https://doi.org/10.1057/s41599-021-00833-7" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+The impact of COVID-19 on recent tendencies towards international isolationism has been much speculated on but remains to be seen. We suggest that valuable evidence can be gleaned from the “Spanish” flu of 1918–20. It is well-known that the world fell into a protectionist spiral following the First World War, but scholars have almost exclusively ignored the impact of the pandemic. We employ a difference-in-differences strategy and find that the flu had a significant impact on trade policy, independent of the war. In our preferred specification, a one standard deviation increase in excess deaths during the outbreak implied 0.022 percentage points higher tariffs subsequently, corresponding to an increase of one third of a standard deviation in tariffs. Health policy should aim to avoid the experience of the interwar period and consider the international macroeconomic impact of measures (not) taken.
+</details>
+</div>
+
+<div class="pub">
+<strong>Pedersen, M.</strong>, Riani, C. and Sharp, P. (2021). “Malthus in Pre-industrial Northern Italy?”. <em>Journal of Population Economics</em>. 
+<a href="https://doi.org/10.1007/s00148-020-00812-3" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+The Malthusian model, which implies a long-run interaction between demography and living standards, forms a cornerstone of our understanding of comparative economic development, as postulated by unified growth theory. Its empirical validity has been supported by a number of studies, most of which examine England. In Northern Italy, however, there might have been a reversed “preventive check.” We employ a cointegrated VAR model on Italian data from ca. 1650–1799 and find some evidence for this, but also for diminishing returns and thus a more “Malthusian” society than in, for example, England at that time.
+</details>
+</div>
+
+## Book chapters
+<div class="pub">
+Borowiecki, Karol J., <strong>Pedersen, Maja U.</strong>, Mitchell, Sara and Alam Khan, Shahedul (2024). <em>“Navigating Cultural Landscapes: Approaches to Data Collection and Analysis in Tourism”</em>. In Karol J. Borowiecki, Jose Maria Ciantos and Antonella Fresa (Eds.): <em>Visiting the Margins: Innovative Cultural Tourism in European Peripheries</em>, London: Routledge. 2024. (BFI 2). 
+<a href="https://doi.org/10.4324/9781003422952" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+In an era where data is likened to the lifeblood of innovation, its role in the cultural and natural heritage sectors emerges as both pivotal and transformative. Beyond being a mere repository of information, data in tourism is akin to a compass, guiding strategies and illuminating paths previously unexplored. This chapter delves into the rich tapestry of cultural and natural heritage, illustrating how the strategic utilisation of data is not just beneficial but essential. The focus here is on collection of visitor data, and we approach a number of practical concerns, including how to design and implement a survey at a heritage site. In doing this, we present challenges related to the design of a survey, logistics, response biases, frequency, and seasonality. These considerations are complemented with suggestions on how to overcome data limitations by using data scraping algorithms or novel data sources. Finally, we provide examples for data-based storytelling by highlighting a couple of examples to illustrate what can (or cannot) be reliably deducted from data, and how to interpret it.
+</details>
+</div>
+
+## Doctoral thesis
+<div class="pub">
+<strong>Pedersen, M. U.</strong> (2023). <em>Topics in Economic History and Growth</em>. Ph.D. thesis, SDU, Syddansk Universitet, Det Samfundsvidenskabelige Fakultet. 
+<a href="https://doi.org/10.21996/nxxd-qq86" target="_blank">
+DOI
+</a>.
+<details class="abstract">
+<summary>*Abstract*</summary>
+What impact does a change in land inequality have on female labor force participation, was Malthus right, and did market integration exist before the first era of globalization? This dissertation is a collection of essays that answers these questions in different historical contexts. The first three chapters to some extent all share the theme of economic growth, while the last chapter moves to trade, however using the same econometric approach as in two other chapters. The first chapter studies the effect of land inequality on female labor force participation in the context of 1950s Italy. Chapters 2 and 3 go further back in time, looking at Malthusian effects in Italy and Denmark respectively using a cointegration approach. The final chapter also employs the cointegration approach but in a different context, namely the study of market integration between Canada, the US and the UK in the late 18th and early 19th century.
+
+Chapter 1 investigates the effect of a change in land inequality on female labor force participation. A vast literature shows the detrimental effect of an unequal distribution of land, especially the effects on economic growth, production, and human capital. However, what about other indirect effects of land inequality? This paper takes a different angle by looking at the effects on female labor force participation (FLFP), considered to be important for modern economic growth. In the 1950s in Italy a land reform was implemented, changing considerably the distribution of land, and putting an end to the large latifundia estates in the hands of absentee landowners (Bonanno, 1988). This event presents an ideal setting to investigate the effects of inequality on female labor force participation for two important reasons. Firstly, it presents a sudden change in the distribution and therefore, a difference-in-differences approach can be implemented to control for time and area fixed effects. Secondly, because of concerns about reverse causality where areas were included in the reform were also those most backward and hence with lower female labor force participation an instrument is needed for causal inference. Tracing the formation of the latifundia back to the Roman colonization, it is possible to introduce a new instrument for the areas affected by the 1950s land reform, namely using Roman colonies. I find that areas affected by the reform had higher FLFP rates afterwards. Three mechanisms through which the change in inequality might have affected female labor force participation are explored. The first mechanism is through an increase in the level of education, which qualified women for a larger range of jobs and consequently increased their participation on the job market. The second is that the reform increased the share of labor in the agricultural sector and hence, according to the feminization U hypothesis proposed by Sinha (1967), a larger share of women would be working. The third mechanism is through the crop mix. Different cops can be more or less female intensive and a change towards more female intensive crops would also increase their participation in the agricultural sector. I conclude that all three mechanisms are at work but that it is mainly due to an increase in the agricultural sector combined with the crop mix.
+
+Chapter 2, co-authored with Paul Sharp and Claudia Riani, uses a model proposed by Møller and Sharp (2014) to investigate the presence of Malthusian mechanisms in pre-industrial societies. The Malthusian model, which implies a long-run interaction between demography and living standards, forms a cornerstone of our understanding of comparative economic development, as postulated by Unified Growth Theory (Galor, 2011). Its empirical validity has been supported by a number of studies, most of which examine England. The Italian case is of particular interest since the European marriage pattern as proposed by Hajnal (1965) was not predominant in Italy. Indeed, by employing the cointegrated VAR model proposed by Møller and Sharp (2014), we find evidence of a reversed “preventive check”. We also find evidence for diminishing returns to labor and thus conclude that Italy was a more “Malthusian” society than, for example, England at that time.
+
+Chapter 3, co-authored with Peter Sandholt Jensen, Paul Sharp, and Cristina Victoria Radu, employs the same cointegration approach as chapter 2, but within the Danish context. We argue that the Danish context is especially suited for testing the Malthusian hypothesis since Denmark was characterized by extreme resource and environmental constraints until the final decades of the eighteenth century. Furthermore, since most studies cover England which in many ways differed from other European contexts at the time, adding evidence from other countries is important. The positive causal relationship between wages and population growth is quite uncontroversial for pre-industrial societies. However, the same is not true for the diminishing returns due to fixed supply of land for which results are more contrasting. Employing the cointegrated VAR, we find evidence for diminishing returns until ca. 1775. This relationship disappears in the late-eighteenth century, consistent with an increasing pace of technological progress and the emergence of what Unified Growth Theory has termed the “post-Malthusian” era.
+
+Chapter 4, co-authored with Paul Sharp and Vincent Geloso, adds to previous work by Sharp and Weisdorf (2013) studying the potential for wheat market integration between the US and the UK before the ‘first era of globalization’ in the second half of the nineteenth century. We add Canada to the story by including Canadian price data for wheat, as well as contemporary debates. We find that she faced similar barriers to the US, and that membership of the British Empire was therefore not a great benefit. We also describe the limitations she faced accessing the US market, in particular after American independence.
+</details>
+</div>

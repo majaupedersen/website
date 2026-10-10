@@ -1,0 +1,22 @@
+---
+title: "Grants and Awards"
+---
+## Grants
+:::::: columns
+::: {.column width="15%"}
+2021 
+:::
+:::: {.column width="85%"}
+EHA Exploratory Travel and Data Grant. Awarded the maximum amount of $2500.
+:::
+::::::
+
+## Awards
+:::::: columns
+::: {.column width="15%"}
+2023 
+:::
+:::: {.column width="85%"}
+2nd Runner-up Paper Award at the Advances in Tourism Marketing Conference in Bordeaux for the paper: *Using big data to measure cultural tourism in Europe with unprecedented precision*.
+::::
+::::::

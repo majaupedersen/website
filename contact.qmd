@@ -1,0 +1,19 @@
+---
+title: "Contact"
+---
+
+## Address
+![](images/Typewriter.png){width="200px" .float-right}
+
+Historical Economics and Development Group (HEDG)
+
+Department of Economics
+
+University of Southern Denmark
+
+Campusvej 55, Odense M
+
+5230, Denmark
+
+## E-mail
+<mup@sam.sdu.dk>
