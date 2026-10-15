@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: ""
+  title: "Maja U. Pedersen"
   navbar:
     left:
       - href: index.qmd

@@ -1,9 +1,7 @@
 ---
-title: "Home"
+title: "Maja U. Pedersen"
 ---
 ![](images/Home.png){width="100%"}
-
-## Maja U. Pedersen
 
 I am a researcher at the Department of Economics, University of Southern Denmark. My research focuses on economic history, with a particular interest in economic growth and human capital formation. I have worked on topics including Malthusian mechanisms, long-run economic growth, and market integration.
 
