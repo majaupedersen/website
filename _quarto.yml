@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Maja U. Pedersen"
+  site-url: https://majaupedersen.github.io/website/
   navbar:
     left:
       - href: index.qmd
