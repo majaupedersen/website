@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+resources:
+  - googledf2f4b1a1c183462.html
+
 website:
   title: "Maja U. Pedersen"
   site-url: https://majaupedersen.github.io/website/
